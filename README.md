@@ -15,7 +15,7 @@
 
 ---
 
-本项目是基于 [NuoTian](https://github.com/s235784) 的 [NJUPT_AutoLogin](https://github.com/s235784/NJUPT_AutoLogin) 进行二次开发的版本。
+本项目是基于 [NuoTian](https://github.com/s235784) 的 [NJUPT_AutoLogin](https://github.com/s235784/NJUPT_AutoLogin) 进行的调整版本。
 
 **原作者：** NuoTian (https://github.com/s235784)  
 **原项目：** https://github.com/s235784/NJUPT_AutoLogin
