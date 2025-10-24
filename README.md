@@ -1,5 +1,5 @@
 # 🌐 NJUPT AutoLogin
-可挂在openwrt上使用，已不住宿，上传仅供参考
+基于前辈的二开版本，可挂在openwrt上使用。已不在校内住宿，仅供参考
 
 <div align="center">
   
