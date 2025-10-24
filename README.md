@@ -166,7 +166,6 @@ ip addr show
 ## 📮 联系方式
 
 - GitHub Issues: [提交问题](https://github.com/yourusername/NJUPT-AutoLogin/issues)
-- Email: your.email@example.com
 
 ## ⭐ Star History
 
