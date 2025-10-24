@@ -1,5 +1,5 @@
 # 🌐 NJUPT AutoLogin
-基于前辈的二开版本，可挂在openwrt上使用。已不在校内住宿，仅供参考
+基于前辈的个人调整版本，可挂在openwrt上使用。已不在校内住宿，仅作记录和参考
 
 <div align="center">
   
@@ -14,6 +14,13 @@
 </div>
 
 ---
+
+本项目是基于 [NuoTian](https://github.com/s235784) 的 [NJUPT_AutoLogin](https://github.com/s235784/NJUPT_AutoLogin) 进行二次开发的版本。
+
+**原作者：** NuoTian (https://github.com/s235784)  
+**原项目：** https://github.com/s235784/NJUPT_AutoLogin
+
+感谢原作者的开源贡献！🙏
 
 ## ✨ 功能特性
 
